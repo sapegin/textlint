@@ -1,6 +1,6 @@
 // LICENSE : MIT
 "use strict";
-import { Controller, traverse, VisitorOption } from "../lib/txt-ast-traverse.js";
+import { Controller, traverse, VisitorOption } from "../src/txt-ast-traverse";
 
 import { ASTNodeTypes } from "@textlint/ast-node-types";
 
